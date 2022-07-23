@@ -25,3 +25,4 @@
 8. Datastore, preferences
 9. Room
 10. GSON
+11. Espresso for UI Test
