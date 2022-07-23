@@ -19,9 +19,9 @@
 2. Glide
 3. Material Design
 4. Constraint Layout
-5. CameraX
-6. Retrofit
-7. Kotlin Coroutines
-8. RecylcerView, CardView
-9. Datastore, preferences
-10. Room
+5. Retrofit
+6. Kotlin Coroutines
+7. RecylcerView, CardView
+8. Datastore, preferences
+9. Room
+10. GSON
